@@ -1,13 +1,15 @@
 h1{
-    color :#ff6f91;
+    font-style: italic;
+    border-bottom : solid 5px #e448a6;
 
 }
 
 h4{
-    color :#90BE6D;
+    text-decoration: underline  green;
+    
 }
 
 p{
-    color :#48CAE4
+    
 
 }
