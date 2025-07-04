@@ -10,6 +10,14 @@ h4{
 }
 
 p{
-    
+    text-decoration: underline red;
+}
 
+.wrapper {
+    display: flex;
+    align-items: flex-start;
+}
+
+.wrapper .content:nth-child(2){
+    margin-left: 40px; 
 }
