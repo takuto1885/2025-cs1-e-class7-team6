@@ -1,4 +1,72 @@
+body {
+    font-family: 'Yu Gothic', 'Hiragino Kaku Gothic ProN', sans-serif;
+    line-height: 1.8;
+    background-color: #fff8f4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
 
+
+h1 {
+    font-size: 2.5rem;
+    color: black;
+    text-align: center;
+    border-bottom: 3px solid #f5c3c6;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+
+h2 {
+    font-size: 1.8rem;
+    color: #f28482;
+    margin-top: 40px;
+}
+
+
+h3 {
+    font-size: 1.4rem;
+    color: #355070;
+    margin-top: 30px;
+    border-left: 6px solid #f6bd60;
+    padding-left: 10px;
+}
+
+
+p {
+    font-size: 1rem;
+    margin: 10px 0 20px 0;
+}
+
+
+ol {
+    padding-left: 20px;
+    margin-bottom: 30px;
+}
+
+ol li {
+    margin: 5px 0;
+}
+
+
+img {
+    width: 100%;
+    max-width: 700px;
+    height: auto;
+    display: block;
+    margin: 10px auto 30px auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+hr {
+    border: 0;
+    height: 2px;
+    background: #f28482;
+    margin: 40px 0;
+}
 
 
 
