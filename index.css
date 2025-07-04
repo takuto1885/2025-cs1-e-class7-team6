@@ -1,8 +1,15 @@
 h1{
-    color :#233799aa;
+    font-style: italic;
+    border-bottom : solid 5px #e448a6;
 
 }
 
+h4{
+    text-decoration: underline  green;
+    
+}
+
 p{
-    color :#279f21;
+    
+
 }
